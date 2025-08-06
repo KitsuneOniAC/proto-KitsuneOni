@@ -1,15 +1,18 @@
 body {
-    background: rgb(255,160,203);
-    background: -moz-linear-gradient(180deg, rgba(255,160,203,1) 0%, rgba(254,37,103,1) 29%, rgba(188,20,230,1) 70%, rgba(126,0,179,1) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(255,160,203,1) 0%, rgba(254,37,103,1) 29%, rgba(188,20,230,1) 70%, rgba(126,0,179,1) 100%);
-    background: linear-gradient(180deg, rgba(255,160,203,1) 0%, rgba(254,37,103,1) 29%, rgba(188,20,230,1) 70%, rgba(126,0,179,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa0cb",endColorstr="#7e00b3",GradientType=1);
-     /* overflow: hidden; */
+    background: rgb(80,9,117);
+   background: -moz-linear-gradient(71deg, rgba(80,9,117,1) 0%, rgba(177,53,166,1) 47%, rgba(0,212,255,1) 100%);
+    background: -webkit-linear-gradient(71deg, rgba(80,9,117,1) 0%, rgba(177,53,166,1) 47%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(71deg, rgba(80,9,117,1) 0%, rgba(177,53,166,1) 47%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#500975",endColorstr="#00d4ff",GradientType=1);
      font-family: 'Kaushan Script', cursive;
      size: 21px;
      color: #48235b;
      scroll-behavior: smooth;
      margin: 0;
+}
+
+.testtext {
+  color:blue;
 }
 
 type1 {
